@@ -245,7 +245,7 @@ public class VivaQ4 {
              break;
              
              case 4:
-                 if (ct2 >= 1 && ct2 >=1 && ct3 >= 1)
+                 if (ct1 >= 1 && ct2 >=1 && ct3 >= 1)
                  {
                  System.out.printf("Your total is RM%.2f! %n",total);
                  System.out.println("You've availed the One-of-each offer. You get a 20% discount!");
